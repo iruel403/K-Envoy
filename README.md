@@ -34,7 +34,7 @@ K-Envoy helps you:
 #### Build Steps
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/K-Envoy.git
+   git clone https://github.com/iruel403/K-Envoy.git
    cd K-Envoy
    ```
 
