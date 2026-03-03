@@ -2,6 +2,11 @@
 
 A Windows desktop application for managing system configurations and your game library.
 
+<p align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/546ccce4-01f2-4056-bf14-b96420533692" />
+  <img width="400" src="https://github.com/user-attachments/assets/8067cdaa-5b4c-458b-b7b5-d6406d781bee" />
+</p>
+
 ## What is K-Envoy?
 
 K-Envoy helps you:
